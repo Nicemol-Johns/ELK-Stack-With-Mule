@@ -78,10 +78,6 @@ Installation of Logstash
       pipeline.batch.size: 1
       
       config.string: "input { generator {} } filter { sleep { time => 1 } } output { stdout { codec => dots } }"
-      
-    # - pipeline.id: another_test
-   
-    #   queue.type: persisted
    
       path.config: "/tmp/logstash/*.config"
 
