@@ -6,7 +6,7 @@ Exporting application logs from Anypoint Platform to Third Party systems can be 
 2) CloudHub API
 3) log4j Appenders
 
-Floow along the youtube video provided in the references. Few of the changes are needed to the files mentioned in the video, which is being documented here.
+Follow along the youtube video provided in the references. Few of the changes are needed to the files mentioned in the video, which is being documented here.
 
 Installation of Elasticsearch
 -----------------------------
